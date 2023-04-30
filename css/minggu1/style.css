@@ -1,0 +1,17 @@
+h3{
+	font-family: poppins, arial, sans-serif;
+	font-size: 25px;
+	font-weight: bolder;
+	font-variant: small-caps;
+	font-style: oblique;
+
+	text-decoration: overline;
+	text-transform: uppercase;
+
+	color: skyblue;
+}
+
+li{
+	font-family: poppins, serif;
+	text-indent: 20px;
+}
